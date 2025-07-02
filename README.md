@@ -1,39 +1,39 @@
-# YYY-XXXX: ___ 
+# YYY-XXXX: ___
 
 ## 🖥️ Course Information
 
-- **University**: Université Laval
-- **Session**: Summer 2025
-- **Course Reference Number (NRC)**: 
+- **University**:
+- **Session**:
+- **Course Reference Number (NRC)**:
 - **Credits**: 3
 - **Prerequisites**: None
-- **Instructor**: [Prof Name](mailto:prof.email@ift.ulaval.ca)
+- **Instructor**: [Prof Name](mailto:prof.email@university.ca)
 - **Format**: Remote (online class)
 - **Schedule**:
-  - Wednesday 13 h 00 – 14 h 50 → Exercises (virtual class)
-  - Friday 18 h 00 – 20 h 20 → Lecture (virtual class)
+  - Wednesday xx h yy – ww h zz → Lab (virtual class)
+  - Friday xx h yy – ww h zz → Lecture (virtual class)
 - **Course Website**: [XXX-YYYY: ___](url)
 
 ## 📚 Overview
 
-This repository contains materials for the IFT1004 course at Université Laval, including:
+This repository contains materials for the YYY-XXXX course at <university>, including:
 
-- Syllabus (Plan de cours)
-- Textbook PDFs
 - Exercises and solutions
-- Projects
+- Labs
+- Course materials (slides, syllabus, textbook)
+- Projects (and assignments)
 - Personal notes
 
 ## 📁 Structure
 
-| Folder | Content |
-|:---|:---|
-| `syllabus/` | Course syllabus |
-| `textbook/` | Course textbook PDFs |
-| `exercises/` | Exercise questions |
-| `solutions/` | Exercise solutions |
-| `projects/` | Programming projects and assignments |
-| `notes/` | Personal notes and summaries |
+| Folder       | Content                                       |
+| :----------- | :-------------------------------------------- |
+| `exercises/` | Exercise questions and solutions              |
+| `labs/`      | Lab activities                                |
+| `materials/` | Course materials (slides, syllabus, textbook) |
+| `projects/`  | Programming projects and assignments          |
+| `notes/`     | Personal notes and summaries                  |
+
 
 ## 📌 Notes
 
